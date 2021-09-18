@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Smithson Dmello
-- 👀 I’m interested in BI, Cloud Computing
+- 👀 I’m interested in Cloud Computing & Analytics
 - 🌱 SAA C02 Certified Cloud Engineer
 - 📫 How to reach me ...
 
