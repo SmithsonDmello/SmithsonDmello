@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Smithson Dmello
 - 👀 I’m interested in Cloud Computing & Analytics
-- 🌱 SAA C02 Certified Cloud Engineer
+- 🌱 SAA C02 Certified AWS Cloud Engineer
 - 📫 How to reach me ...
 
 <a style="display: inline" href="https://twitter.com/SMITHPEDIA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Smithson Dmello"
