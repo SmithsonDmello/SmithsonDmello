@@ -3,13 +3,6 @@
 - 🌱 SAA C02 Certified AWS Cloud Engineer
 - 📫 How to reach me ...
 
-<a style="display: inline" href="https://twitter.com/SMITHPEDIA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Smithson Dmello"
-height="30" width="40" /></a>
-
-<a style="display: inline" style="display: inline" href="https://in.linkedin.com/in/smithson-d-mello-b79222109" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Smithson Dmello" height="30" width="40" /></a> 
-
-<a style="display: inline" href="https://www.facebook.com/smithson.dmello/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Smithson Dmello" height="30" width="40" /></a> 
-
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
@@ -19,3 +12,14 @@ height="30" width="40" /></a>
      <a href="https://twitter.com/SMITHPEDIA"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   
 </div>
+
+
+<h3 align="left">Databases :</h3>
+<div align="left">
+  <img alt="MYSQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mssql&logoColor=white"/>
+</div>
+
+<h3 align="left">Cloud Computing :</h3>
+<div align="left">
+  <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</div><br/>
