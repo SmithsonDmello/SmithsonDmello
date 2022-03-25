@@ -10,3 +10,10 @@ height="30" width="40" /></a>
 
 <a style="display: inline" href="https://www.facebook.com/smithson.dmello/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Smithson Dmello" height="30" width="40" /></a> 
 
+
+<h3 align="left">Connect with me:</h3>
+<div align="left">
+  <a href="https://www.linkedin.com/in/smithson-dmello/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:dmello.smithson03@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+   <a href="ttps://www.instagram.com/dmello_smithson"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</div>
