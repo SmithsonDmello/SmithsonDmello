@@ -23,3 +23,10 @@
 <div align="left">
   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </div><br/>
+
+
+<h3 align="left">BI Tools :</h3>
+<div align="left">
+  <img alt="Looker" src="https://img.shields.io/badge/Looker-%2300f.svg?style=for-the-badge&logo=Looker&logoColor=Grey"/>
+  <img alt="JasperReports" src ="https://img.shields.io/badge/JasperReports-%2300f.svg?style=for-the-badge&logo=Tibco&logoColor=white"/>
+</div>
