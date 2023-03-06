@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Smithson Dmello
 - 👀 I’m interested in Cloud Computing & Analytics
-- 🌱 SAA C02 cerified | GCP PDE certified
+- 🌱 SAA C02 certified | GCP PDE certified
 - 📫 How to reach me ...
 
 
